@@ -1,11 +1,11 @@
-Capítulo 1: Introducción al Prompt Engineering
+#Capítulo 1: Introducción al Prompt Engineering
 
 En este primer capítulo, nos adentraremos en el fascinante mundo del Prompt Engineering.
 Exploraremos qué es el Prompt Engineering, su importancia en el desarrollo de aplicaciones 
 de Inteligencia Artificial y cómo utilizarlo para aprovechar al máximo el potencial de modelos
 de lenguaje como GPT-3.5.
 
-¿Qué es el Prompt Engineering?
+##¿Qué es el Prompt Engineering?
 El Prompt Engineering es una disciplina que consiste en diseñar y construir instrucciones 
 precisas para guiar la generación de texto en modelos de lenguaje. Un prompt bien estructurado
 puede influir en la coherencia, relevancia y calidad de las respuestas generadas por un modelo de IA.
@@ -14,13 +14,13 @@ Un prompt efectivo debe ser claro, específico y contener la información necesa
 resultados deseados. Al dominar el Prompt Engineering, puedes potenciar tus aplicaciones de IA 
 y obtener resultados más precisos y relevantes.
 
-La importancia del Prompt Engineering
+##La importancia del Prompt Engineering
 Un prompt bien diseñado es clave para obtener resultados de calidad en aplicaciones de IA. 
 Sin una instrucción adecuada, los modelos de lenguaje pueden generar respuestas incoherentes 
 o irrelevantes. El Prompt Engineering permite controlar y moldear la salida del modelo, asegurando
 que cumpla con los requisitos del usuario.
 
-Ejemplo iterativo: Creando un prompt simple
+##Ejemplo iterativo: Creando un prompt simple
 Comencemos creando un prompt simple utilizando el lenguaje Markdown. Sigue los pasos a continuación:
 
 Abre un editor de texto y crea un nuevo archivo con extensión ".md".
